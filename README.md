@@ -28,6 +28,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ## Stats
 <img src= "https://github-readme-stats.vercel.app/api?username=mashhisyam&&show_icons=true&title_color=2a9d8f&icon_color=2a9d8f&text_color=fefae0&bg_color=0C3E54"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashhisyam&layout=compact&title_color=2a9d8f&icon_color=2a9d8f&text_color=fefae0&bg_color=0C3E54">
