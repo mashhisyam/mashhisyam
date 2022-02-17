@@ -10,6 +10,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Cheese so much
 
-<img src= "https://github-readme-stats.vercel.app/api?username=mashhisyam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src= "https://github-readme-stats.vercel.app/api?username=mashhisyam&&show_icons=true&title_color=ca6702&icon_color=ee9b00&text_color=e9d8a6&bg_color=9b2226">
 
 
