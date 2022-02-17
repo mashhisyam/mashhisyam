@@ -1,6 +1,6 @@
 # YO! 👋 I'm Hisyam Haryo Mahdyan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashhisyam&label=Views&color=blue&style=plastic" alt="mashhisyam" /> </p>
+<p align="left"> <img height="30" src="https://komarev.com/ghpvc/?username=mashhisyam&label=Views&color=blue&style=plastic" alt="mashhisyam" /> </p>
 
 <a href="https://twitter.com/HisyamMann">
   <img align="left" alt="Hisyam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
